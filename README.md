@@ -1,16 +1,26 @@
-### Hi there 👋
+![image](https://github.com/code0214/code0214/assets/142180194/b0948c6c-1995-4e21-8030-e37451423e08)
 
-<!--
-**brucehamada/brucehamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⭐⭐✵⭐⭐ Full Stack & Full time Developer with 🥇7+🥇 years of experience from childhood and specialized in web development. Experienced with all stages of the development cycle for any web projects. Well-versed in major programming languages, frameworks and dev environment and Dev Tools . Strong background in project management and customer relations. ⭐⭐✵⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                            🔥 My Stacks 🔥
+🥇 CMS: WordPress, Shopify, Magento2, Wix, Joomla
+
+🥇 Frontend Development: Javascript, Typescript, React.js ( Gatsby, Next.js )
+
+🥇 Backend Development: Ruby on Rails Node.js, PHP ( Laravel )
+
+🥇 Hybrid Mobile App Development: React-Native
+
+🥈 DevOps: CircleCI, Jenkins, Github Actions, Bitbucket Pipeline, Bitrise, ERC-20 Token, Solidity, Pancakeswap, AWS, Open EDX
+
+🥉 Test Framework: Jest, Mocha/Chai, Protractor, Jasmine
+
+➤ Speed Optimization
+
+✅ Website Speed Optimization
+
+✅ Web Page Content Optimization
+
+
+![image](https://github.com/code0214/code0214/assets/142180194/07f50cd2-a9b2-4435-ba79-b38717b09bfe)
