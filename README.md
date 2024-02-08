@@ -18,9 +18,15 @@ Committed to client satisfaction by providing timely support, regular updates, a
 💎 SKILLS I POSSESS
 
 ❖ Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Dart, Ruby, Java, C#, Go, Perl, SASS, LESS, Solidity, Solana, web3.js, Ether.js
+
 ❖ UI Libraries: Bootstrap, Tailwind CSS, Material UI, Next UI, Foundation,   Semantic UI,  Ant Design, PrimeFaces / PrimeNG / PrimeReact, Three.js
+
 ❖ Libraries & Frameworks: jQuery, React, Redux, Storybook, Remix, GraphQL, Next.js, Vue.js, Nuxt.js
+
 ❖ Backend: Laravel, WordPress, Django, Express, Ruby on Rails, Spring Boot, ASP.NET Core, Flask, Fast API, Shopify, Socket.IO, JWT, OAUTH, CORS
+
 ❖ Databases: MySQL, PostgreSQL, MongoDB, SQLite, MariaDB, Microsoft SQL Server
+
 ❖ Testing: Jest, Cypress, Enzyme, Mocha
+
 ❖ DevOps & Cloud: Git, Docker, Kubernetes, Ngnix, Jenkins, Firebase, AWS, Heroku, Vercel
