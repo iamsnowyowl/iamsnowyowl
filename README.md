@@ -17,7 +17,7 @@ Committed to client satisfaction by providing timely support, regular updates, a
 
 💎 SKILLS I POSSESS
 
-❖ Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Dart, Ruby, Java, C#, Go, Perl, SASS, LESS, Solidity, Solana, web3.js, Ether.js
+❖ Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Dart, Ruby, Java, Go, SASS, LESS, Solidity, web3.js, Ether.js
 
 ❖ UI Libraries: Bootstrap, Tailwind CSS, Material UI, Next UI, Foundation,   Semantic UI,  Ant Design, PrimeFaces / PrimeNG / PrimeReact, Three.js
 
