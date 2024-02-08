@@ -1,26 +1,26 @@
-![image](https://github.com/code0214/code0214/assets/142180194/b0948c6c-1995-4e21-8030-e37451423e08)
+😎 What Sets Me Apart:
 
+✔ Proven Project Delivery:
+Successfully completed projects, demonstrating reliability and a commitment to delivering quality results.
 
-⭐⭐✵⭐⭐ Full Stack & Full time Engineer with 🥇7+🥇 years of experience from childhood and specialized in web development. Experienced with all stages of the development cycle for any web projects. Well-versed in major programming languages, frameworks and dev environment and Dev Tools . Strong background in project management and customer relations. ⭐⭐✵⭐⭐
+✔ Focused Expertise:
+Dedicated to Web and Mobile development with a strong grasp of the latest industry trends and best practices.
 
-                                                            🔥 My Stacks 🔥
-🥇 CMS: WordPress, Shopify, Magento2, Wix, Joomla
+✔Collaborative Approach:
+Effective communication and collaboration to understand client requirements and deliver tailored solutions.
 
-🥇 Frontend Development: Javascript, Typescript, React.js ( Gatsby, Next.js )
+✔Detail-Oriented:
+Meticulous in code reviews, testing, and ensuring optimal app performance and usability.
 
-🥇 Backend Development: Ruby on Rails Node.js, PHP ( Laravel )
+✔Client-Centric Focus:
+Committed to client satisfaction by providing timely support, regular updates, and maintaining a professional work ethic.
 
-🥇 Hybrid Mobile App Development: React-Native
+💎 SKILLS I POSSESS
 
-🥈 DevOps: CircleCI, Jenkins, Github Actions, Bitbucket Pipeline, Bitrise, ERC-20 Token, Solidity, Pancakeswap, AWS, Open EDX
-
-🥉 Test Framework: Jest, Mocha/Chai, Protractor, Jasmine
-
-➤ Speed Optimization
-
-✅ Website Speed Optimization
-
-✅ Web Page Content Optimization
-
-
-![image](https://github.com/code0214/code0214/assets/142180194/07f50cd2-a9b2-4435-ba79-b38717b09bfe)
+❖ Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Dart, Ruby, Java, C#, Go, Perl, SASS, LESS, Solidity, Solana, web3.js, Ether.js
+❖ UI Libraries: Bootstrap, Tailwind CSS, Material UI, Next UI, Foundation,   Semantic UI,  Ant Design, PrimeFaces / PrimeNG / PrimeReact, Three.js
+❖ Libraries & Frameworks: jQuery, React, Redux, Storybook, Remix, GraphQL, Next.js, Vue.js, Nuxt.js
+❖ Backend: Laravel, WordPress, Django, Express, Ruby on Rails, Spring Boot, ASP.NET Core, Flask, Fast API, Shopify, Socket.IO, JWT, OAUTH, CORS
+❖ Databases: MySQL, PostgreSQL, MongoDB, SQLite, MariaDB, Microsoft SQL Server
+❖ Testing: Jest, Cypress, Enzyme, Mocha
+❖ DevOps & Cloud: Git, Docker, Kubernetes, Ngnix, Jenkins, Firebase, AWS, Heroku, Vercel
