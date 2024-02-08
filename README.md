@@ -23,7 +23,7 @@ Committed to client satisfaction by providing timely support, regular updates, a
 
 ❖ Libraries & Frameworks: jQuery, React, Redux, Storybook, Remix, GraphQL, Next.js, Vue.js, Nuxt.js
 
-❖ Backend: Laravel, WordPress, Django, Express, Ruby on Rails, Spring Boot, ASP.NET Core, Flask, Fast API, Shopify, Socket.IO, JWT, OAUTH, CORS
+❖ Backend: Laravel, WordPress, Django, Express, Ruby on Rails, Spring Boot, ASP.NET Core, Flask, Fast API, Socket.IO
 
 ❖ Databases: MySQL, PostgreSQL, MongoDB, SQLite, MariaDB, Microsoft SQL Server
 
