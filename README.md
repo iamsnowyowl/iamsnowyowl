@@ -1,25 +1,25 @@
 😎 What Sets Me Apart:
 
-✔ Proven Project Delivery:
+✅ Proven Project Delivery:
 Successfully completed projects, demonstrating reliability and a commitment to delivering quality results.
 
-✔ Focused Expertise:
+✅ Focused Expertise:
 Dedicated to Web and Mobile development with a strong grasp of the latest industry trends and best practices.
 
-✔Collaborative Approach:
+✅ Collaborative Approach:
 Effective communication and collaboration to understand client requirements and deliver tailored solutions.
 
-✔Detail-Oriented:
+✅ Detail-Oriented:
 Meticulous in code reviews, testing, and ensuring optimal app performance and usability.
 
-✔Client-Centric Focus:
+✅ Client-Centric Focus:
 Committed to client satisfaction by providing timely support, regular updates, and maintaining a professional work ethic.
 
 💎 SKILLS I POSSESS
 
 ❖ Languages: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Dart, Ruby, Java, Go, SASS, LESS, Solidity, web3.js, Ether.js
 
-❖ UI Libraries: Bootstrap, Tailwind CSS, Material UI, Next UI, Foundation,   Semantic UI,  Ant Design, PrimeFaces / PrimeNG / PrimeReact, Three.js
+❖ UI Libraries: Bootstrap, Tailwind CSS, Material UI, Next UI, Foundation, Semantic UI, Chakra UI
 
 ❖ Libraries & Frameworks: jQuery, React, Redux, Storybook, Remix, GraphQL, Next.js, Vue.js, Nuxt.js
 
