@@ -1,19 +1,14 @@
 😎 What Sets Me Apart:
 
-✅ Proven Project Delivery:
-Successfully completed projects, demonstrating reliability and a commitment to delivering quality results.
+✅ Proven Project Delivery
 
-✅ Focused Expertise:
-Dedicated to Web and Mobile development with a strong grasp of the latest industry trends and best practices.
+✅ Focused Expertise
 
-✅ Collaborative Approach:
-Effective communication and collaboration to understand client requirements and deliver tailored solutions.
+✅ Collaborative Approach
 
-✅ Detail-Oriented:
-Meticulous in code reviews, testing, and ensuring optimal app performance and usability.
+✅ Detail-Oriented
 
-✅ Client-Centric Focus:
-Committed to client satisfaction by providing timely support, regular updates, and maintaining a professional work ethic.
+✅ Client-Centric Focus
 
 💎 SKILLS I POSSESS
 
