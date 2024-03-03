@@ -18,7 +18,7 @@
 
 ❖ Libraries & Frameworks: jQuery, React, Redux, Storybook, Remix, GraphQL, Next.js, Vue.js, Nuxt.js
 
-❖ Backend: Laravel, WordPress, Django, Express, Ruby on Rails, Spring Boot, ASP.NET Core, Flask, Fast API, Socket.IO
+❖ Backend: Express, Django, Laravel, Ruby on Rails, Spring Boot, ASP.NET Core, Flask, Fast API, Socket.IO
 
 ❖ Databases: MySQL, PostgreSQL, MongoDB, SQLite, MariaDB, Microsoft SQL Server
 
